@@ -1,2 +1,2 @@
 # stuff
-stuff: 👀 Random Stuff!
+👀 Random Stuff!
